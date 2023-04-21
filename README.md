@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi there, I'm Ivan!
-
 💻 I'm a software engineer with a passion for writing clean, efficient, and scalable code.
 
 📈 I'm particularly interested in leveraging my programming skills to develop algorithms and strategies for financial markets.
