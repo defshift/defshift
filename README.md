@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi there, I'm Ivan!
+
+💻 I'm a software engineer with a passion for writing clean, efficient, and scalable code.
+
+📈 I'm particularly interested in leveraging my programming skills to develop algorithms and strategies for financial markets.
+
+👨‍💻 I specialize in Go, which I love using to build robust and reliable systems.
+
+🌟 I'm constantly learning and exploring new technologies and techniques to improve my skills and deliver the best possible solutions.
+
+📚 When I'm not coding or reading about finance, you can find me hiking or enjoying a good book.
+
+🤝 Let's connect and work on some exciting projects together!
