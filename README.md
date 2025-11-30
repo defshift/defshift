@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I'm a software engineer with a passion for writing clean, efficient, and scalable code.
-- 📈 I'm particularly interested in leveraging my programming skills to develop algorithms and strategies for financial markets.
-- 👨‍💻 I specialize in Go, which I love using to build robust and reliable systems.
-- 📚 When I'm not coding or reading about finance, you can find me hiking or enjoying a good book.
-- 🤝 Let's connect and work on some exciting projects together!
+- 💻 Software engineer focused on writing clean, maintainable, and high-performance code.
+- 🛠️ I specialize in Go (Golang) and love building concurrent, scalable, and reliable systems — from CLI tools and APIs to distributed services.
+- 🔬 Passionate about systems programming, performance optimization, clean architecture, and open-source.
+- 🌱 Currently diving deeper into cloud-native development, observability, and building developer tools.
+- 🚀 Always eager to contribute to or start ambitious projects.
+- 🤝 Open to collaboration — feel free to reach out!
